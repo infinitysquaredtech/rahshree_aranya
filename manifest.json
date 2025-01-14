@@ -36,10 +36,10 @@
    "sizes": "16x16"
   }
  ],
+ "start_url": "index.htm",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "description": "Rajshree - Aranya heights neightbourhood virtual tour",
  "background_color": "#FFFFFF",
- "name": "Rajshree - Aranya Heights",
- "start_url": "index.htm"
+ "description": "Rajshree - Aranya heights neightbourhood virtual tour",
+ "theme_color": "#FFFFFF",
+ "name": "Rajshree - Aranya Heights"
 }
